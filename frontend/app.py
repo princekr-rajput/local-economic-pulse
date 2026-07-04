@@ -16,7 +16,6 @@ from dotenv import load_dotenv
 # ---------------------------
 load_dotenv()
 
-# Works both locally (.env) and on Streamlit Cloud (st.secrets)
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY", None)
 
 if not GEMINI_API_KEY:
@@ -32,6 +31,59 @@ st.set_page_config(
     page_icon="📊",
     layout="centered"
 )
+
+# ---------------------------
+# CUSTOM STYLING
+# ---------------------------
+st.markdown("""
+    <style>
+    .main {
+        background-color: #0F1116;
+    }
+    h1 {
+        color: #FF6B4A;
+        font-weight: 800;
+    }
+    .stButton>button {
+        border-radius: 8px;
+        font-weight: 600;
+    }
+    .stButton>button[kind="primary"] {
+        background-color: #FF6B4A;
+        border: none;
+    }
+    .stButton>button[kind="primary"]:hover {
+        background-color: #E85A3A;
+    }
+    div[data-testid="stSidebar"] {
+        background-color: #1A1D24;
+    }
+    div[data-testid="stSidebar"] .stButton>button {
+        background-color: #262A33;
+        color: #FFFFFF;
+        text-align: left;
+        border: 1px solid #363B45;
+    }
+    div[data-testid="stSidebar"] .stButton>button:hover {
+        background-color: #363B45;
+        border: 1px solid #FF6B4A;
+    }
+    .insight-card {
+        background-color: #1A1D24;
+        border-left: 4px solid #4ADE80;
+        padding: 16px 20px;
+        border-radius: 8px;
+        margin-bottom: 12px;
+    }
+    .recommendation-card {
+        background-color: #1A1D24;
+        border-left: 4px solid #FF6B4A;
+        padding: 16px 20px;
+        border-radius: 8px;
+        margin-bottom: 12px;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 # ---------------------------
 # PROMPTS
@@ -159,7 +211,7 @@ st.title("📊 Local Economic Pulse Dashboard")
 st.caption("Ask questions about local footfall and business activity in plain English.")
 
 with st.sidebar:
-    st.header("Try asking:")
+    st.markdown("### 💬 Try asking:")
     sample_questions = [
         "Which sector had the highest footfall last week?",
         "Is there any anomaly in Old Town's footfall?",
@@ -171,19 +223,25 @@ with st.sidebar:
         if st.button(q, use_container_width=True):
             st.session_state["question_input"] = q
 
+    st.divider()
+    st.caption("Built for Google Gen AI Academy Hackathon — Team vector-Ai")
+
 if "history" not in st.session_state:
     st.session_state["history"] = []
 
-question = st.text_input(
-    "Ask a question:",
-    key="question_input",
-    placeholder="e.g. Which sector had the highest footfall last week?"
-)
-
-ask_button = st.button("Ask", type="primary")
+col1, col2 = st.columns([5, 1])
+with col1:
+    question = st.text_input(
+        "Ask a question:",
+        key="question_input",
+        placeholder="e.g. Which sector had the highest footfall last week?",
+        label_visibility="collapsed"
+    )
+with col2:
+    ask_button = st.button("Ask →", type="primary", use_container_width=True)
 
 if ask_button and question.strip():
-    with st.spinner("Analyzing data..."):
+    with st.spinner("🔍 Analyzing data..."):
         try:
             data = process_question(question)
             st.session_state["history"].insert(0, data)
@@ -192,13 +250,19 @@ if ask_button and question.strip():
 
 for item in st.session_state["history"]:
     st.divider()
-    st.subheader(f"❓ {item['question']}")
+    st.markdown(f"### ❓ {item['question']}")
 
-    st.markdown("**💡 Insight**")
-    st.write(item["insight"])
+    st.markdown(f"""
+        <div class="insight-card">
+            <b>💡 Insight</b><br>{item['insight']}
+        </div>
+    """, unsafe_allow_html=True)
 
-    st.markdown("**✅ Recommendation**")
-    st.write(item["recommendation"])
+    st.markdown(f"""
+        <div class="recommendation-card">
+            <b>✅ Recommendation</b><br>{item['recommendation']}
+        </div>
+    """, unsafe_allow_html=True)
 
     with st.expander("🔍 Why this recommendation?"):
         st.write(item["why"])
@@ -206,6 +270,6 @@ for item in st.session_state["history"]:
     with st.expander("📄 View data & SQL query"):
         st.code(item["sql_query"], language="sql")
         if item["result_rows"]:
-            st.dataframe(item["result_rows"])
+            st.dataframe(item["result_rows"], use_container_width=True)
         else:
             st.write("No data returned.")
