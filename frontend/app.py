@@ -129,7 +129,7 @@ def parse_insight_response(raw_text: str) -> dict:
 
 def process_question(user_question: str) -> dict:
     sql_prompt = NL_TO_SQL_PROMPT.format(user_question=user_question)
-    sql_response = gemini_client.models.generate_content(model="gemini-2.0-flash", contents=sql_prompt)
+    sql_response = gemini_client.models.generate_content(model="gemini-2.5-flash", contents=sql_prompt)
     raw_sql = clean_sql_response(sql_response.text)
 
     if not is_safe_select_query(raw_sql):
@@ -139,7 +139,7 @@ def process_question(user_question: str) -> dict:
     result_rows_str = json.dumps(result_rows[:20], indent=2) if result_rows else "No data returned for this query."
 
     insight_prompt = INSIGHT_PROMPT.format(user_question=user_question, query_result=result_rows_str)
-    insight_response = gemini_client.models.generate_content(model="gemini-2.0-flash", contents=insight_prompt)
+    insight_response = gemini_client.models.generate_content(model="gemini-2.5-flash", contents=insight_prompt)
     parsed = parse_insight_response(insight_response.text)
 
     return {
