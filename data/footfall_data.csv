@@ -1,0 +1,1441 @@
+date,sector,footfall_count,day_of_week
+2026-01-01,Market Street,1247,Thursday
+2026-01-01,Tech Park,1157,Thursday
+2026-01-01,Old Town,736,Thursday
+2026-01-01,Riverside,560,Thursday
+2026-01-01,College Road,1020,Thursday
+2026-01-01,Industrial Zone,392,Thursday
+2026-01-01,Central Mall,1689,Thursday
+2026-01-01,Station Area,1167,Thursday
+2026-01-02,Market Street,1155,Friday
+2026-01-02,Tech Park,1221,Friday
+2026-01-02,Old Town,674,Friday
+2026-01-02,Riverside,481,Friday
+2026-01-02,College Road,1061,Friday
+2026-01-02,Industrial Zone,339,Friday
+2026-01-02,Central Mall,1294,Friday
+2026-01-02,Station Area,1051,Friday
+2026-01-03,Market Street,1546,Saturday
+2026-01-03,Tech Park,924,Saturday
+2026-01-03,Old Town,910,Saturday
+2026-01-03,Riverside,621,Saturday
+2026-01-03,College Road,895,Saturday
+2026-01-03,Industrial Zone,393,Saturday
+2026-01-03,Central Mall,2114,Saturday
+2026-01-03,Station Area,976,Saturday
+2026-01-04,Market Street,1610,Sunday
+2026-01-04,Tech Park,910,Sunday
+2026-01-04,Old Town,891,Sunday
+2026-01-04,Riverside,722,Sunday
+2026-01-04,College Road,763,Sunday
+2026-01-04,Industrial Zone,391,Sunday
+2026-01-04,Central Mall,2003,Sunday
+2026-01-04,Station Area,1266,Sunday
+2026-01-05,Market Street,1202,Monday
+2026-01-05,Tech Park,1074,Monday
+2026-01-05,Old Town,748,Monday
+2026-01-05,Riverside,452,Monday
+2026-01-05,College Road,1060,Monday
+2026-01-05,Industrial Zone,338,Monday
+2026-01-05,Central Mall,1345,Monday
+2026-01-05,Station Area,1121,Monday
+2026-01-06,Market Street,1276,Tuesday
+2026-01-06,Tech Park,1190,Tuesday
+2026-01-06,Old Town,696,Tuesday
+2026-01-06,Riverside,489,Tuesday
+2026-01-06,College Road,920,Tuesday
+2026-01-06,Industrial Zone,378,Tuesday
+2026-01-06,Central Mall,1450,Tuesday
+2026-01-06,Station Area,1197,Tuesday
+2026-01-07,Market Street,1239,Wednesday
+2026-01-07,Tech Park,1010,Wednesday
+2026-01-07,Old Town,721,Wednesday
+2026-01-07,Riverside,487,Wednesday
+2026-01-07,College Road,988,Wednesday
+2026-01-07,Industrial Zone,421,Wednesday
+2026-01-07,Central Mall,1631,Wednesday
+2026-01-07,Station Area,1187,Wednesday
+2026-01-08,Market Street,1125,Thursday
+2026-01-08,Tech Park,1147,Thursday
+2026-01-08,Old Town,722,Thursday
+2026-01-08,Riverside,542,Thursday
+2026-01-08,College Road,1005,Thursday
+2026-01-08,Industrial Zone,396,Thursday
+2026-01-08,Central Mall,1375,Thursday
+2026-01-08,Station Area,1000,Thursday
+2026-01-09,Market Street,1286,Friday
+2026-01-09,Tech Park,1305,Friday
+2026-01-09,Old Town,700,Friday
+2026-01-09,Riverside,543,Friday
+2026-01-09,College Road,1077,Friday
+2026-01-09,Industrial Zone,381,Friday
+2026-01-09,Central Mall,1553,Friday
+2026-01-09,Station Area,1243,Friday
+2026-01-10,Market Street,1687,Saturday
+2026-01-10,Tech Park,1020,Saturday
+2026-01-10,Old Town,780,Saturday
+2026-01-10,Riverside,751,Saturday
+2026-01-10,College Road,811,Saturday
+2026-01-10,Industrial Zone,393,Saturday
+2026-01-10,Central Mall,2131,Saturday
+2026-01-10,Station Area,932,Saturday
+2026-01-11,Market Street,1664,Sunday
+2026-01-11,Tech Park,933,Sunday
+2026-01-11,Old Town,1104,Sunday
+2026-01-11,Riverside,676,Sunday
+2026-01-11,College Road,754,Sunday
+2026-01-11,Industrial Zone,387,Sunday
+2026-01-11,Central Mall,2272,Sunday
+2026-01-11,Station Area,1138,Sunday
+2026-01-12,Market Street,1159,Monday
+2026-01-12,Tech Park,1229,Monday
+2026-01-12,Old Town,711,Monday
+2026-01-12,Riverside,543,Monday
+2026-01-12,College Road,990,Monday
+2026-01-12,Industrial Zone,393,Monday
+2026-01-12,Central Mall,1466,Monday
+2026-01-12,Station Area,980,Monday
+2026-01-13,Market Street,1240,Tuesday
+2026-01-13,Tech Park,1206,Tuesday
+2026-01-13,Old Town,707,Tuesday
+2026-01-13,Riverside,495,Tuesday
+2026-01-13,College Road,931,Tuesday
+2026-01-13,Industrial Zone,390,Tuesday
+2026-01-13,Central Mall,1473,Tuesday
+2026-01-13,Station Area,1039,Tuesday
+2026-01-14,Market Street,1197,Wednesday
+2026-01-14,Tech Park,1220,Wednesday
+2026-01-14,Old Town,814,Wednesday
+2026-01-14,Riverside,512,Wednesday
+2026-01-14,College Road,1072,Wednesday
+2026-01-14,Industrial Zone,401,Wednesday
+2026-01-14,Central Mall,1283,Wednesday
+2026-01-14,Station Area,1109,Wednesday
+2026-01-15,Market Street,1219,Thursday
+2026-01-15,Tech Park,1416,Thursday
+2026-01-15,Old Town,697,Thursday
+2026-01-15,Riverside,518,Thursday
+2026-01-15,College Road,1049,Thursday
+2026-01-15,Industrial Zone,366,Thursday
+2026-01-15,Central Mall,1656,Thursday
+2026-01-15,Station Area,1179,Thursday
+2026-01-16,Market Street,1291,Friday
+2026-01-16,Tech Park,1098,Friday
+2026-01-16,Old Town,788,Friday
+2026-01-16,Riverside,449,Friday
+2026-01-16,College Road,1102,Friday
+2026-01-16,Industrial Zone,475,Friday
+2026-01-16,Central Mall,1398,Friday
+2026-01-16,Station Area,1063,Friday
+2026-01-17,Market Street,1715,Saturday
+2026-01-17,Tech Park,875,Saturday
+2026-01-17,Old Town,869,Saturday
+2026-01-17,Riverside,713,Saturday
+2026-01-17,College Road,741,Saturday
+2026-01-17,Industrial Zone,420,Saturday
+2026-01-17,Central Mall,1971,Saturday
+2026-01-17,Station Area,1252,Saturday
+2026-01-18,Market Street,1597,Sunday
+2026-01-18,Tech Park,889,Sunday
+2026-01-18,Old Town,1058,Sunday
+2026-01-18,Riverside,640,Sunday
+2026-01-18,College Road,826,Sunday
+2026-01-18,Industrial Zone,448,Sunday
+2026-01-18,Central Mall,1855,Sunday
+2026-01-18,Station Area,1132,Sunday
+2026-01-19,Market Street,1243,Monday
+2026-01-19,Tech Park,1261,Monday
+2026-01-19,Old Town,640,Monday
+2026-01-19,Riverside,453,Monday
+2026-01-19,College Road,1099,Monday
+2026-01-19,Industrial Zone,415,Monday
+2026-01-19,Central Mall,1553,Monday
+2026-01-19,Station Area,1147,Monday
+2026-01-20,Market Street,1152,Tuesday
+2026-01-20,Tech Park,1210,Tuesday
+2026-01-20,Old Town,727,Tuesday
+2026-01-20,Riverside,478,Tuesday
+2026-01-20,College Road,1214,Tuesday
+2026-01-20,Industrial Zone,421,Tuesday
+2026-01-20,Central Mall,1378,Tuesday
+2026-01-20,Station Area,1176,Tuesday
+2026-01-21,Market Street,1124,Wednesday
+2026-01-21,Tech Park,1264,Wednesday
+2026-01-21,Old Town,777,Wednesday
+2026-01-21,Riverside,474,Wednesday
+2026-01-21,College Road,1138,Wednesday
+2026-01-21,Industrial Zone,420,Wednesday
+2026-01-21,Central Mall,1625,Wednesday
+2026-01-21,Station Area,1288,Wednesday
+2026-01-22,Market Street,1197,Thursday
+2026-01-22,Tech Park,1118,Thursday
+2026-01-22,Old Town,661,Thursday
+2026-01-22,Riverside,475,Thursday
+2026-01-22,College Road,1051,Thursday
+2026-01-22,Industrial Zone,418,Thursday
+2026-01-22,Central Mall,1560,Thursday
+2026-01-22,Station Area,1193,Thursday
+2026-01-23,Market Street,1223,Friday
+2026-01-23,Tech Park,1329,Friday
+2026-01-23,Old Town,697,Friday
+2026-01-23,Riverside,619,Friday
+2026-01-23,College Road,1112,Friday
+2026-01-23,Industrial Zone,379,Friday
+2026-01-23,Central Mall,1396,Friday
+2026-01-23,Station Area,1163,Friday
+2026-01-24,Market Street,1681,Saturday
+2026-01-24,Tech Park,969,Saturday
+2026-01-24,Old Town,1036,Saturday
+2026-01-24,Riverside,709,Saturday
+2026-01-24,College Road,760,Saturday
+2026-01-24,Industrial Zone,358,Saturday
+2026-01-24,Central Mall,2063,Saturday
+2026-01-24,Station Area,1197,Saturday
+2026-01-25,Market Street,1742,Sunday
+2026-01-25,Tech Park,826,Sunday
+2026-01-25,Old Town,1013,Sunday
+2026-01-25,Riverside,736,Sunday
+2026-01-25,College Road,758,Sunday
+2026-01-25,Industrial Zone,413,Sunday
+2026-01-25,Central Mall,2151,Sunday
+2026-01-25,Station Area,1019,Sunday
+2026-01-26,Market Street,1260,Monday
+2026-01-26,Tech Park,1247,Monday
+2026-01-26,Old Town,776,Monday
+2026-01-26,Riverside,553,Monday
+2026-01-26,College Road,944,Monday
+2026-01-26,Industrial Zone,377,Monday
+2026-01-26,Central Mall,1594,Monday
+2026-01-26,Station Area,1169,Monday
+2026-01-27,Market Street,1276,Tuesday
+2026-01-27,Tech Park,1563,Tuesday
+2026-01-27,Old Town,747,Tuesday
+2026-01-27,Riverside,557,Tuesday
+2026-01-27,College Road,1143,Tuesday
+2026-01-27,Industrial Zone,429,Tuesday
+2026-01-27,Central Mall,1493,Tuesday
+2026-01-27,Station Area,1192,Tuesday
+2026-01-28,Market Street,1151,Wednesday
+2026-01-28,Tech Park,1173,Wednesday
+2026-01-28,Old Town,687,Wednesday
+2026-01-28,Riverside,514,Wednesday
+2026-01-28,College Road,1260,Wednesday
+2026-01-28,Industrial Zone,347,Wednesday
+2026-01-28,Central Mall,1617,Wednesday
+2026-01-28,Station Area,979,Wednesday
+2026-01-29,Market Street,1181,Thursday
+2026-01-29,Tech Park,1301,Thursday
+2026-01-29,Old Town,720,Thursday
+2026-01-29,Riverside,467,Thursday
+2026-01-29,College Road,1003,Thursday
+2026-01-29,Industrial Zone,431,Thursday
+2026-01-29,Central Mall,1445,Thursday
+2026-01-29,Station Area,1145,Thursday
+2026-01-30,Market Street,1233,Friday
+2026-01-30,Tech Park,1135,Friday
+2026-01-30,Old Town,839,Friday
+2026-01-30,Riverside,538,Friday
+2026-01-30,College Road,892,Friday
+2026-01-30,Industrial Zone,415,Friday
+2026-01-30,Central Mall,1454,Friday
+2026-01-30,Station Area,1203,Friday
+2026-01-31,Market Street,1612,Saturday
+2026-01-31,Tech Park,914,Saturday
+2026-01-31,Old Town,1045,Saturday
+2026-01-31,Riverside,767,Saturday
+2026-01-31,College Road,741,Saturday
+2026-01-31,Industrial Zone,399,Saturday
+2026-01-31,Central Mall,2070,Saturday
+2026-01-31,Station Area,1068,Saturday
+2026-02-01,Market Street,1966,Sunday
+2026-02-01,Tech Park,953,Sunday
+2026-02-01,Old Town,903,Sunday
+2026-02-01,Riverside,770,Sunday
+2026-02-01,College Road,959,Sunday
+2026-02-01,Industrial Zone,444,Sunday
+2026-02-01,Central Mall,1892,Sunday
+2026-02-01,Station Area,1084,Sunday
+2026-02-02,Market Street,1356,Monday
+2026-02-02,Tech Park,1133,Monday
+2026-02-02,Old Town,744,Monday
+2026-02-02,Riverside,545,Monday
+2026-02-02,College Road,988,Monday
+2026-02-02,Industrial Zone,408,Monday
+2026-02-02,Central Mall,1140,Monday
+2026-02-02,Station Area,1036,Monday
+2026-02-03,Market Street,1208,Tuesday
+2026-02-03,Tech Park,1082,Tuesday
+2026-02-03,Old Town,813,Tuesday
+2026-02-03,Riverside,454,Tuesday
+2026-02-03,College Road,1030,Tuesday
+2026-02-03,Industrial Zone,415,Tuesday
+2026-02-03,Central Mall,1718,Tuesday
+2026-02-03,Station Area,1000,Tuesday
+2026-02-04,Market Street,1348,Wednesday
+2026-02-04,Tech Park,1204,Wednesday
+2026-02-04,Old Town,663,Wednesday
+2026-02-04,Riverside,533,Wednesday
+2026-02-04,College Road,1086,Wednesday
+2026-02-04,Industrial Zone,391,Wednesday
+2026-02-04,Central Mall,1551,Wednesday
+2026-02-04,Station Area,1096,Wednesday
+2026-02-05,Market Street,1246,Thursday
+2026-02-05,Tech Park,1267,Thursday
+2026-02-05,Old Town,811,Thursday
+2026-02-05,Riverside,463,Thursday
+2026-02-05,College Road,1252,Thursday
+2026-02-05,Industrial Zone,347,Thursday
+2026-02-05,Central Mall,1525,Thursday
+2026-02-05,Station Area,1185,Thursday
+2026-02-06,Market Street,1263,Friday
+2026-02-06,Tech Park,1145,Friday
+2026-02-06,Old Town,708,Friday
+2026-02-06,Riverside,494,Friday
+2026-02-06,College Road,1020,Friday
+2026-02-06,Industrial Zone,440,Friday
+2026-02-06,Central Mall,1589,Friday
+2026-02-06,Station Area,1070,Friday
+2026-02-07,Market Street,1856,Saturday
+2026-02-07,Tech Park,950,Saturday
+2026-02-07,Old Town,1075,Saturday
+2026-02-07,Riverside,757,Saturday
+2026-02-07,College Road,769,Saturday
+2026-02-07,Industrial Zone,393,Saturday
+2026-02-07,Central Mall,2294,Saturday
+2026-02-07,Station Area,1189,Saturday
+2026-02-08,Market Street,1730,Sunday
+2026-02-08,Tech Park,937,Sunday
+2026-02-08,Old Town,1114,Sunday
+2026-02-08,Riverside,687,Sunday
+2026-02-08,College Road,861,Sunday
+2026-02-08,Industrial Zone,405,Sunday
+2026-02-08,Central Mall,2128,Sunday
+2026-02-08,Station Area,1234,Sunday
+2026-02-09,Market Street,1320,Monday
+2026-02-09,Tech Park,1286,Monday
+2026-02-09,Old Town,798,Monday
+2026-02-09,Riverside,517,Monday
+2026-02-09,College Road,1132,Monday
+2026-02-09,Industrial Zone,402,Monday
+2026-02-09,Central Mall,1588,Monday
+2026-02-09,Station Area,1123,Monday
+2026-02-10,Market Street,1249,Tuesday
+2026-02-10,Tech Park,1266,Tuesday
+2026-02-10,Old Town,675,Tuesday
+2026-02-10,Riverside,603,Tuesday
+2026-02-10,College Road,988,Tuesday
+2026-02-10,Industrial Zone,373,Tuesday
+2026-02-10,Central Mall,1693,Tuesday
+2026-02-10,Station Area,1208,Tuesday
+2026-02-11,Market Street,1302,Wednesday
+2026-02-11,Tech Park,1270,Wednesday
+2026-02-11,Old Town,723,Wednesday
+2026-02-11,Riverside,479,Wednesday
+2026-02-11,College Road,1082,Wednesday
+2026-02-11,Industrial Zone,391,Wednesday
+2026-02-11,Central Mall,1672,Wednesday
+2026-02-11,Station Area,1124,Wednesday
+2026-02-12,Market Street,1159,Thursday
+2026-02-12,Tech Park,1179,Thursday
+2026-02-12,Old Town,748,Thursday
+2026-02-12,Riverside,494,Thursday
+2026-02-12,College Road,1005,Thursday
+2026-02-12,Industrial Zone,422,Thursday
+2026-02-12,Central Mall,1582,Thursday
+2026-02-12,Station Area,1092,Thursday
+2026-02-13,Market Street,1196,Friday
+2026-02-13,Tech Park,1234,Friday
+2026-02-13,Old Town,641,Friday
+2026-02-13,Riverside,459,Friday
+2026-02-13,College Road,1015,Friday
+2026-02-13,Industrial Zone,407,Friday
+2026-02-13,Central Mall,1592,Friday
+2026-02-13,Station Area,1273,Friday
+2026-02-14,Market Street,1861,Saturday
+2026-02-14,Tech Park,921,Saturday
+2026-02-14,Old Town,1014,Saturday
+2026-02-14,Riverside,667,Saturday
+2026-02-14,College Road,828,Saturday
+2026-02-14,Industrial Zone,405,Saturday
+2026-02-14,Central Mall,2233,Saturday
+2026-02-14,Station Area,1064,Saturday
+2026-02-15,Market Street,3368,Sunday
+2026-02-15,Tech Park,1048,Sunday
+2026-02-15,Old Town,1007,Sunday
+2026-02-15,Riverside,749,Sunday
+2026-02-15,College Road,875,Sunday
+2026-02-15,Industrial Zone,401,Sunday
+2026-02-15,Central Mall,2217,Sunday
+2026-02-15,Station Area,1142,Sunday
+2026-02-16,Market Street,1255,Monday
+2026-02-16,Tech Park,1139,Monday
+2026-02-16,Old Town,728,Monday
+2026-02-16,Riverside,539,Monday
+2026-02-16,College Road,1205,Monday
+2026-02-16,Industrial Zone,447,Monday
+2026-02-16,Central Mall,1825,Monday
+2026-02-16,Station Area,1072,Monday
+2026-02-17,Market Street,1334,Tuesday
+2026-02-17,Tech Park,1233,Tuesday
+2026-02-17,Old Town,854,Tuesday
+2026-02-17,Riverside,485,Tuesday
+2026-02-17,College Road,1008,Tuesday
+2026-02-17,Industrial Zone,395,Tuesday
+2026-02-17,Central Mall,1293,Tuesday
+2026-02-17,Station Area,1095,Tuesday
+2026-02-18,Market Street,1172,Wednesday
+2026-02-18,Tech Park,1231,Wednesday
+2026-02-18,Old Town,747,Wednesday
+2026-02-18,Riverside,598,Wednesday
+2026-02-18,College Road,1163,Wednesday
+2026-02-18,Industrial Zone,396,Wednesday
+2026-02-18,Central Mall,1447,Wednesday
+2026-02-18,Station Area,1189,Wednesday
+2026-02-19,Market Street,1117,Thursday
+2026-02-19,Tech Park,1396,Thursday
+2026-02-19,Old Town,797,Thursday
+2026-02-19,Riverside,500,Thursday
+2026-02-19,College Road,934,Thursday
+2026-02-19,Industrial Zone,461,Thursday
+2026-02-19,Central Mall,1546,Thursday
+2026-02-19,Station Area,1258,Thursday
+2026-02-20,Market Street,1090,Friday
+2026-02-20,Tech Park,1160,Friday
+2026-02-20,Old Town,729,Friday
+2026-02-20,Riverside,522,Friday
+2026-02-20,College Road,1044,Friday
+2026-02-20,Industrial Zone,437,Friday
+2026-02-20,Central Mall,1429,Friday
+2026-02-20,Station Area,1132,Friday
+2026-02-21,Market Street,1768,Saturday
+2026-02-21,Tech Park,976,Saturday
+2026-02-21,Old Town,1079,Saturday
+2026-02-21,Riverside,664,Saturday
+2026-02-21,College Road,731,Saturday
+2026-02-21,Industrial Zone,459,Saturday
+2026-02-21,Central Mall,2247,Saturday
+2026-02-21,Station Area,1078,Saturday
+2026-02-22,Market Street,1970,Sunday
+2026-02-22,Tech Park,947,Sunday
+2026-02-22,Old Town,1118,Sunday
+2026-02-22,Riverside,734,Sunday
+2026-02-22,College Road,972,Sunday
+2026-02-22,Industrial Zone,475,Sunday
+2026-02-22,Central Mall,2147,Sunday
+2026-02-22,Station Area,1236,Sunday
+2026-02-23,Market Street,1317,Monday
+2026-02-23,Tech Park,1355,Monday
+2026-02-23,Old Town,674,Monday
+2026-02-23,Riverside,550,Monday
+2026-02-23,College Road,1177,Monday
+2026-02-23,Industrial Zone,358,Monday
+2026-02-23,Central Mall,1417,Monday
+2026-02-23,Station Area,961,Monday
+2026-02-24,Market Street,1226,Tuesday
+2026-02-24,Tech Park,1292,Tuesday
+2026-02-24,Old Town,819,Tuesday
+2026-02-24,Riverside,525,Tuesday
+2026-02-24,College Road,1228,Tuesday
+2026-02-24,Industrial Zone,371,Tuesday
+2026-02-24,Central Mall,1353,Tuesday
+2026-02-24,Station Area,1144,Tuesday
+2026-02-25,Market Street,1293,Wednesday
+2026-02-25,Tech Park,1220,Wednesday
+2026-02-25,Old Town,611,Wednesday
+2026-02-25,Riverside,519,Wednesday
+2026-02-25,College Road,974,Wednesday
+2026-02-25,Industrial Zone,440,Wednesday
+2026-02-25,Central Mall,1614,Wednesday
+2026-02-25,Station Area,1063,Wednesday
+2026-02-26,Market Street,1204,Thursday
+2026-02-26,Tech Park,1120,Thursday
+2026-02-26,Old Town,728,Thursday
+2026-02-26,Riverside,563,Thursday
+2026-02-26,College Road,1002,Thursday
+2026-02-26,Industrial Zone,435,Thursday
+2026-02-26,Central Mall,1503,Thursday
+2026-02-26,Station Area,1078,Thursday
+2026-02-27,Market Street,1246,Friday
+2026-02-27,Tech Park,1124,Friday
+2026-02-27,Old Town,700,Friday
+2026-02-27,Riverside,473,Friday
+2026-02-27,College Road,1260,Friday
+2026-02-27,Industrial Zone,420,Friday
+2026-02-27,Central Mall,1483,Friday
+2026-02-27,Station Area,1171,Friday
+2026-02-28,Market Street,1745,Saturday
+2026-02-28,Tech Park,926,Saturday
+2026-02-28,Old Town,1077,Saturday
+2026-02-28,Riverside,778,Saturday
+2026-02-28,College Road,803,Saturday
+2026-02-28,Industrial Zone,400,Saturday
+2026-02-28,Central Mall,2153,Saturday
+2026-02-28,Station Area,940,Saturday
+2026-03-01,Market Street,1548,Sunday
+2026-03-01,Tech Park,1047,Sunday
+2026-03-01,Old Town,1163,Sunday
+2026-03-01,Riverside,719,Sunday
+2026-03-01,College Road,878,Sunday
+2026-03-01,Industrial Zone,430,Sunday
+2026-03-01,Central Mall,2745,Sunday
+2026-03-01,Station Area,1257,Sunday
+2026-03-02,Market Street,1247,Monday
+2026-03-02,Tech Park,1134,Monday
+2026-03-02,Old Town,640,Monday
+2026-03-02,Riverside,533,Monday
+2026-03-02,College Road,1025,Monday
+2026-03-02,Industrial Zone,372,Monday
+2026-03-02,Central Mall,1493,Monday
+2026-03-02,Station Area,1055,Monday
+2026-03-03,Market Street,1431,Tuesday
+2026-03-03,Tech Park,1316,Tuesday
+2026-03-03,Old Town,735,Tuesday
+2026-03-03,Riverside,587,Tuesday
+2026-03-03,College Road,1099,Tuesday
+2026-03-03,Industrial Zone,391,Tuesday
+2026-03-03,Central Mall,1768,Tuesday
+2026-03-03,Station Area,1205,Tuesday
+2026-03-04,Market Street,1157,Wednesday
+2026-03-04,Tech Park,1211,Wednesday
+2026-03-04,Old Town,684,Wednesday
+2026-03-04,Riverside,467,Wednesday
+2026-03-04,College Road,1174,Wednesday
+2026-03-04,Industrial Zone,484,Wednesday
+2026-03-04,Central Mall,1401,Wednesday
+2026-03-04,Station Area,1208,Wednesday
+2026-03-05,Market Street,1197,Thursday
+2026-03-05,Tech Park,1183,Thursday
+2026-03-05,Old Town,701,Thursday
+2026-03-05,Riverside,489,Thursday
+2026-03-05,College Road,1098,Thursday
+2026-03-05,Industrial Zone,393,Thursday
+2026-03-05,Central Mall,1612,Thursday
+2026-03-05,Station Area,1153,Thursday
+2026-03-06,Market Street,1239,Friday
+2026-03-06,Tech Park,1142,Friday
+2026-03-06,Old Town,703,Friday
+2026-03-06,Riverside,558,Friday
+2026-03-06,College Road,1139,Friday
+2026-03-06,Industrial Zone,388,Friday
+2026-03-06,Central Mall,1592,Friday
+2026-03-06,Station Area,1228,Friday
+2026-03-07,Market Street,1534,Saturday
+2026-03-07,Tech Park,989,Saturday
+2026-03-07,Old Town,978,Saturday
+2026-03-07,Riverside,771,Saturday
+2026-03-07,College Road,791,Saturday
+2026-03-07,Industrial Zone,360,Saturday
+2026-03-07,Central Mall,1925,Saturday
+2026-03-07,Station Area,1164,Saturday
+2026-03-08,Market Street,1809,Sunday
+2026-03-08,Tech Park,880,Sunday
+2026-03-08,Old Town,1086,Sunday
+2026-03-08,Riverside,640,Sunday
+2026-03-08,College Road,839,Sunday
+2026-03-08,Industrial Zone,381,Sunday
+2026-03-08,Central Mall,2099,Sunday
+2026-03-08,Station Area,1164,Sunday
+2026-03-09,Market Street,1179,Monday
+2026-03-09,Tech Park,1197,Monday
+2026-03-09,Old Town,798,Monday
+2026-03-09,Riverside,503,Monday
+2026-03-09,College Road,1171,Monday
+2026-03-09,Industrial Zone,384,Monday
+2026-03-09,Central Mall,1650,Monday
+2026-03-09,Station Area,1295,Monday
+2026-03-10,Market Street,1017,Tuesday
+2026-03-10,Tech Park,1157,Tuesday
+2026-03-10,Old Town,773,Tuesday
+2026-03-10,Riverside,519,Tuesday
+2026-03-10,College Road,1131,Tuesday
+2026-03-10,Industrial Zone,402,Tuesday
+2026-03-10,Central Mall,1595,Tuesday
+2026-03-10,Station Area,1147,Tuesday
+2026-03-11,Market Street,1387,Wednesday
+2026-03-11,Tech Park,1262,Wednesday
+2026-03-11,Old Town,760,Wednesday
+2026-03-11,Riverside,511,Wednesday
+2026-03-11,College Road,1056,Wednesday
+2026-03-11,Industrial Zone,408,Wednesday
+2026-03-11,Central Mall,1636,Wednesday
+2026-03-11,Station Area,1124,Wednesday
+2026-03-12,Market Street,1299,Thursday
+2026-03-12,Tech Park,1443,Thursday
+2026-03-12,Old Town,241,Thursday
+2026-03-12,Riverside,515,Thursday
+2026-03-12,College Road,1206,Thursday
+2026-03-12,Industrial Zone,409,Thursday
+2026-03-12,Central Mall,1328,Thursday
+2026-03-12,Station Area,1070,Thursday
+2026-03-13,Market Street,1080,Friday
+2026-03-13,Tech Park,1204,Friday
+2026-03-13,Old Town,263,Friday
+2026-03-13,Riverside,600,Friday
+2026-03-13,College Road,1130,Friday
+2026-03-13,Industrial Zone,416,Friday
+2026-03-13,Central Mall,1694,Friday
+2026-03-13,Station Area,958,Friday
+2026-03-14,Market Street,1814,Saturday
+2026-03-14,Tech Park,1012,Saturday
+2026-03-14,Old Town,315,Saturday
+2026-03-14,Riverside,809,Saturday
+2026-03-14,College Road,870,Saturday
+2026-03-14,Industrial Zone,409,Saturday
+2026-03-14,Central Mall,2338,Saturday
+2026-03-14,Station Area,1377,Saturday
+2026-03-15,Market Street,1808,Sunday
+2026-03-15,Tech Park,973,Sunday
+2026-03-15,Old Town,1001,Sunday
+2026-03-15,Riverside,692,Sunday
+2026-03-15,College Road,905,Sunday
+2026-03-15,Industrial Zone,395,Sunday
+2026-03-15,Central Mall,2240,Sunday
+2026-03-15,Station Area,1122,Sunday
+2026-03-16,Market Street,1322,Monday
+2026-03-16,Tech Park,1275,Monday
+2026-03-16,Old Town,804,Monday
+2026-03-16,Riverside,509,Monday
+2026-03-16,College Road,1080,Monday
+2026-03-16,Industrial Zone,391,Monday
+2026-03-16,Central Mall,1535,Monday
+2026-03-16,Station Area,1203,Monday
+2026-03-17,Market Street,1352,Tuesday
+2026-03-17,Tech Park,1151,Tuesday
+2026-03-17,Old Town,795,Tuesday
+2026-03-17,Riverside,588,Tuesday
+2026-03-17,College Road,1141,Tuesday
+2026-03-17,Industrial Zone,488,Tuesday
+2026-03-17,Central Mall,1495,Tuesday
+2026-03-17,Station Area,1052,Tuesday
+2026-03-18,Market Street,1094,Wednesday
+2026-03-18,Tech Park,1392,Wednesday
+2026-03-18,Old Town,783,Wednesday
+2026-03-18,Riverside,529,Wednesday
+2026-03-18,College Road,1130,Wednesday
+2026-03-18,Industrial Zone,387,Wednesday
+2026-03-18,Central Mall,1907,Wednesday
+2026-03-18,Station Area,1181,Wednesday
+2026-03-19,Market Street,1288,Thursday
+2026-03-19,Tech Park,1317,Thursday
+2026-03-19,Old Town,773,Thursday
+2026-03-19,Riverside,541,Thursday
+2026-03-19,College Road,1036,Thursday
+2026-03-19,Industrial Zone,441,Thursday
+2026-03-19,Central Mall,1836,Thursday
+2026-03-19,Station Area,1296,Thursday
+2026-03-20,Market Street,1440,Friday
+2026-03-20,Tech Park,1195,Friday
+2026-03-20,Old Town,686,Friday
+2026-03-20,Riverside,527,Friday
+2026-03-20,College Road,1112,Friday
+2026-03-20,Industrial Zone,463,Friday
+2026-03-20,Central Mall,1381,Friday
+2026-03-20,Station Area,1314,Friday
+2026-03-21,Market Street,1767,Saturday
+2026-03-21,Tech Park,926,Saturday
+2026-03-21,Old Town,959,Saturday
+2026-03-21,Riverside,647,Saturday
+2026-03-21,College Road,908,Saturday
+2026-03-21,Industrial Zone,428,Saturday
+2026-03-21,Central Mall,2007,Saturday
+2026-03-21,Station Area,1050,Saturday
+2026-03-22,Market Street,1743,Sunday
+2026-03-22,Tech Park,1088,Sunday
+2026-03-22,Old Town,1023,Sunday
+2026-03-22,Riverside,656,Sunday
+2026-03-22,College Road,836,Sunday
+2026-03-22,Industrial Zone,417,Sunday
+2026-03-22,Central Mall,1756,Sunday
+2026-03-22,Station Area,1168,Sunday
+2026-03-23,Market Street,1257,Monday
+2026-03-23,Tech Park,1318,Monday
+2026-03-23,Old Town,857,Monday
+2026-03-23,Riverside,581,Monday
+2026-03-23,College Road,1086,Monday
+2026-03-23,Industrial Zone,389,Monday
+2026-03-23,Central Mall,1930,Monday
+2026-03-23,Station Area,1179,Monday
+2026-03-24,Market Street,1283,Tuesday
+2026-03-24,Tech Park,1247,Tuesday
+2026-03-24,Old Town,759,Tuesday
+2026-03-24,Riverside,527,Tuesday
+2026-03-24,College Road,1060,Tuesday
+2026-03-24,Industrial Zone,408,Tuesday
+2026-03-24,Central Mall,1598,Tuesday
+2026-03-24,Station Area,1124,Tuesday
+2026-03-25,Market Street,1209,Wednesday
+2026-03-25,Tech Park,1261,Wednesday
+2026-03-25,Old Town,733,Wednesday
+2026-03-25,Riverside,598,Wednesday
+2026-03-25,College Road,876,Wednesday
+2026-03-25,Industrial Zone,465,Wednesday
+2026-03-25,Central Mall,1763,Wednesday
+2026-03-25,Station Area,981,Wednesday
+2026-03-26,Market Street,1248,Thursday
+2026-03-26,Tech Park,1214,Thursday
+2026-03-26,Old Town,664,Thursday
+2026-03-26,Riverside,501,Thursday
+2026-03-26,College Road,1013,Thursday
+2026-03-26,Industrial Zone,487,Thursday
+2026-03-26,Central Mall,1725,Thursday
+2026-03-26,Station Area,1296,Thursday
+2026-03-27,Market Street,1359,Friday
+2026-03-27,Tech Park,1139,Friday
+2026-03-27,Old Town,718,Friday
+2026-03-27,Riverside,556,Friday
+2026-03-27,College Road,1004,Friday
+2026-03-27,Industrial Zone,452,Friday
+2026-03-27,Central Mall,1575,Friday
+2026-03-27,Station Area,1142,Friday
+2026-03-28,Market Street,1902,Saturday
+2026-03-28,Tech Park,998,Saturday
+2026-03-28,Old Town,1019,Saturday
+2026-03-28,Riverside,819,Saturday
+2026-03-28,College Road,783,Saturday
+2026-03-28,Industrial Zone,449,Saturday
+2026-03-28,Central Mall,2357,Saturday
+2026-03-28,Station Area,1149,Saturday
+2026-03-29,Market Street,1848,Sunday
+2026-03-29,Tech Park,868,Sunday
+2026-03-29,Old Town,1128,Sunday
+2026-03-29,Riverside,739,Sunday
+2026-03-29,College Road,822,Sunday
+2026-03-29,Industrial Zone,465,Sunday
+2026-03-29,Central Mall,2125,Sunday
+2026-03-29,Station Area,1046,Sunday
+2026-03-30,Market Street,1127,Monday
+2026-03-30,Tech Park,1316,Monday
+2026-03-30,Old Town,674,Monday
+2026-03-30,Riverside,612,Monday
+2026-03-30,College Road,930,Monday
+2026-03-30,Industrial Zone,487,Monday
+2026-03-30,Central Mall,1637,Monday
+2026-03-30,Station Area,1171,Monday
+2026-03-31,Market Street,1232,Tuesday
+2026-03-31,Tech Park,1296,Tuesday
+2026-03-31,Old Town,749,Tuesday
+2026-03-31,Riverside,584,Tuesday
+2026-03-31,College Road,1127,Tuesday
+2026-03-31,Industrial Zone,434,Tuesday
+2026-03-31,Central Mall,1564,Tuesday
+2026-03-31,Station Area,1176,Tuesday
+2026-04-01,Market Street,1321,Wednesday
+2026-04-01,Tech Park,1085,Wednesday
+2026-04-01,Old Town,671,Wednesday
+2026-04-01,Riverside,569,Wednesday
+2026-04-01,College Road,1133,Wednesday
+2026-04-01,Industrial Zone,423,Wednesday
+2026-04-01,Central Mall,1614,Wednesday
+2026-04-01,Station Area,1215,Wednesday
+2026-04-02,Market Street,1235,Thursday
+2026-04-02,Tech Park,1180,Thursday
+2026-04-02,Old Town,764,Thursday
+2026-04-02,Riverside,495,Thursday
+2026-04-02,College Road,1155,Thursday
+2026-04-02,Industrial Zone,371,Thursday
+2026-04-02,Central Mall,1746,Thursday
+2026-04-02,Station Area,1228,Thursday
+2026-04-03,Market Street,1318,Friday
+2026-04-03,Tech Park,1358,Friday
+2026-04-03,Old Town,854,Friday
+2026-04-03,Riverside,582,Friday
+2026-04-03,College Road,954,Friday
+2026-04-03,Industrial Zone,386,Friday
+2026-04-03,Central Mall,1534,Friday
+2026-04-03,Station Area,1186,Friday
+2026-04-04,Market Street,1885,Saturday
+2026-04-04,Tech Park,913,Saturday
+2026-04-04,Old Town,1071,Saturday
+2026-04-04,Riverside,708,Saturday
+2026-04-04,College Road,819,Saturday
+2026-04-04,Industrial Zone,382,Saturday
+2026-04-04,Central Mall,2095,Saturday
+2026-04-04,Station Area,1057,Saturday
+2026-04-05,Market Street,1670,Sunday
+2026-04-05,Tech Park,1052,Sunday
+2026-04-05,Old Town,976,Sunday
+2026-04-05,Riverside,913,Sunday
+2026-04-05,College Road,896,Sunday
+2026-04-05,Industrial Zone,437,Sunday
+2026-04-05,Central Mall,2108,Sunday
+2026-04-05,Station Area,1252,Sunday
+2026-04-06,Market Street,1235,Monday
+2026-04-06,Tech Park,1274,Monday
+2026-04-06,Old Town,910,Monday
+2026-04-06,Riverside,535,Monday
+2026-04-06,College Road,1225,Monday
+2026-04-06,Industrial Zone,407,Monday
+2026-04-06,Central Mall,1614,Monday
+2026-04-06,Station Area,1355,Monday
+2026-04-07,Market Street,1230,Tuesday
+2026-04-07,Tech Park,1446,Tuesday
+2026-04-07,Old Town,798,Tuesday
+2026-04-07,Riverside,515,Tuesday
+2026-04-07,College Road,1180,Tuesday
+2026-04-07,Industrial Zone,465,Tuesday
+2026-04-07,Central Mall,1700,Tuesday
+2026-04-07,Station Area,1038,Tuesday
+2026-04-08,Market Street,1221,Wednesday
+2026-04-08,Tech Park,1239,Wednesday
+2026-04-08,Old Town,752,Wednesday
+2026-04-08,Riverside,567,Wednesday
+2026-04-08,College Road,1140,Wednesday
+2026-04-08,Industrial Zone,386,Wednesday
+2026-04-08,Central Mall,1670,Wednesday
+2026-04-08,Station Area,1246,Wednesday
+2026-04-09,Market Street,1356,Thursday
+2026-04-09,Tech Park,1374,Thursday
+2026-04-09,Old Town,807,Thursday
+2026-04-09,Riverside,560,Thursday
+2026-04-09,College Road,1118,Thursday
+2026-04-09,Industrial Zone,375,Thursday
+2026-04-09,Central Mall,1678,Thursday
+2026-04-09,Station Area,1209,Thursday
+2026-04-10,Market Street,1327,Friday
+2026-04-10,Tech Park,1137,Friday
+2026-04-10,Old Town,692,Friday
+2026-04-10,Riverside,586,Friday
+2026-04-10,College Road,1122,Friday
+2026-04-10,Industrial Zone,456,Friday
+2026-04-10,Central Mall,1627,Friday
+2026-04-10,Station Area,1193,Friday
+2026-04-11,Market Street,1956,Saturday
+2026-04-11,Tech Park,934,Saturday
+2026-04-11,Old Town,1069,Saturday
+2026-04-11,Riverside,730,Saturday
+2026-04-11,College Road,836,Saturday
+2026-04-11,Industrial Zone,422,Saturday
+2026-04-11,Central Mall,2315,Saturday
+2026-04-11,Station Area,1146,Saturday
+2026-04-12,Market Street,2004,Sunday
+2026-04-12,Tech Park,905,Sunday
+2026-04-12,Old Town,1046,Sunday
+2026-04-12,Riverside,732,Sunday
+2026-04-12,College Road,967,Sunday
+2026-04-12,Industrial Zone,440,Sunday
+2026-04-12,Central Mall,2464,Sunday
+2026-04-12,Station Area,1050,Sunday
+2026-04-13,Market Street,1329,Monday
+2026-04-13,Tech Park,1359,Monday
+2026-04-13,Old Town,764,Monday
+2026-04-13,Riverside,588,Monday
+2026-04-13,College Road,1081,Monday
+2026-04-13,Industrial Zone,482,Monday
+2026-04-13,Central Mall,1926,Monday
+2026-04-13,Station Area,1158,Monday
+2026-04-14,Market Street,1256,Tuesday
+2026-04-14,Tech Park,1418,Tuesday
+2026-04-14,Old Town,856,Tuesday
+2026-04-14,Riverside,520,Tuesday
+2026-04-14,College Road,1091,Tuesday
+2026-04-14,Industrial Zone,424,Tuesday
+2026-04-14,Central Mall,1453,Tuesday
+2026-04-14,Station Area,1106,Tuesday
+2026-04-15,Market Street,1199,Wednesday
+2026-04-15,Tech Park,1193,Wednesday
+2026-04-15,Old Town,758,Wednesday
+2026-04-15,Riverside,553,Wednesday
+2026-04-15,College Road,1270,Wednesday
+2026-04-15,Industrial Zone,399,Wednesday
+2026-04-15,Central Mall,1758,Wednesday
+2026-04-15,Station Area,1174,Wednesday
+2026-04-16,Market Street,1299,Thursday
+2026-04-16,Tech Park,1341,Thursday
+2026-04-16,Old Town,692,Thursday
+2026-04-16,Riverside,560,Thursday
+2026-04-16,College Road,1146,Thursday
+2026-04-16,Industrial Zone,452,Thursday
+2026-04-16,Central Mall,1668,Thursday
+2026-04-16,Station Area,1431,Thursday
+2026-04-17,Market Street,1239,Friday
+2026-04-17,Tech Park,1219,Friday
+2026-04-17,Old Town,723,Friday
+2026-04-17,Riverside,519,Friday
+2026-04-17,College Road,1074,Friday
+2026-04-17,Industrial Zone,476,Friday
+2026-04-17,Central Mall,1818,Friday
+2026-04-17,Station Area,1142,Friday
+2026-04-18,Market Street,1707,Saturday
+2026-04-18,Tech Park,1017,Saturday
+2026-04-18,Old Town,1020,Saturday
+2026-04-18,Riverside,801,Saturday
+2026-04-18,College Road,885,Saturday
+2026-04-18,Industrial Zone,382,Saturday
+2026-04-18,Central Mall,2570,Saturday
+2026-04-18,Station Area,1370,Saturday
+2026-04-19,Market Street,1741,Sunday
+2026-04-19,Tech Park,950,Sunday
+2026-04-19,Old Town,1092,Sunday
+2026-04-19,Riverside,783,Sunday
+2026-04-19,College Road,917,Sunday
+2026-04-19,Industrial Zone,506,Sunday
+2026-04-19,Central Mall,2256,Sunday
+2026-04-19,Station Area,1122,Sunday
+2026-04-20,Market Street,1164,Monday
+2026-04-20,Tech Park,1201,Monday
+2026-04-20,Old Town,761,Monday
+2026-04-20,Riverside,623,Monday
+2026-04-20,College Road,1087,Monday
+2026-04-20,Industrial Zone,444,Monday
+2026-04-20,Central Mall,1634,Monday
+2026-04-20,Station Area,1313,Monday
+2026-04-21,Market Street,1574,Tuesday
+2026-04-21,Tech Park,547,Tuesday
+2026-04-21,Old Town,734,Tuesday
+2026-04-21,Riverside,591,Tuesday
+2026-04-21,College Road,1197,Tuesday
+2026-04-21,Industrial Zone,501,Tuesday
+2026-04-21,Central Mall,1713,Tuesday
+2026-04-21,Station Area,1166,Tuesday
+2026-04-22,Market Street,1372,Wednesday
+2026-04-22,Tech Park,1391,Wednesday
+2026-04-22,Old Town,814,Wednesday
+2026-04-22,Riverside,568,Wednesday
+2026-04-22,College Road,1233,Wednesday
+2026-04-22,Industrial Zone,477,Wednesday
+2026-04-22,Central Mall,1819,Wednesday
+2026-04-22,Station Area,1264,Wednesday
+2026-04-23,Market Street,1294,Thursday
+2026-04-23,Tech Park,1294,Thursday
+2026-04-23,Old Town,839,Thursday
+2026-04-23,Riverside,510,Thursday
+2026-04-23,College Road,1170,Thursday
+2026-04-23,Industrial Zone,423,Thursday
+2026-04-23,Central Mall,1643,Thursday
+2026-04-23,Station Area,1325,Thursday
+2026-04-24,Market Street,1333,Friday
+2026-04-24,Tech Park,1284,Friday
+2026-04-24,Old Town,682,Friday
+2026-04-24,Riverside,579,Friday
+2026-04-24,College Road,1196,Friday
+2026-04-24,Industrial Zone,513,Friday
+2026-04-24,Central Mall,1600,Friday
+2026-04-24,Station Area,1224,Friday
+2026-04-25,Market Street,1876,Saturday
+2026-04-25,Tech Park,1109,Saturday
+2026-04-25,Old Town,1064,Saturday
+2026-04-25,Riverside,783,Saturday
+2026-04-25,College Road,918,Saturday
+2026-04-25,Industrial Zone,444,Saturday
+2026-04-25,Central Mall,2217,Saturday
+2026-04-25,Station Area,1223,Saturday
+2026-04-26,Market Street,1999,Sunday
+2026-04-26,Tech Park,905,Sunday
+2026-04-26,Old Town,1085,Sunday
+2026-04-26,Riverside,724,Sunday
+2026-04-26,College Road,960,Sunday
+2026-04-26,Industrial Zone,384,Sunday
+2026-04-26,Central Mall,2198,Sunday
+2026-04-26,Station Area,1241,Sunday
+2026-04-27,Market Street,1480,Monday
+2026-04-27,Tech Park,1276,Monday
+2026-04-27,Old Town,733,Monday
+2026-04-27,Riverside,630,Monday
+2026-04-27,College Road,1008,Monday
+2026-04-27,Industrial Zone,361,Monday
+2026-04-27,Central Mall,1702,Monday
+2026-04-27,Station Area,1157,Monday
+2026-04-28,Market Street,1209,Tuesday
+2026-04-28,Tech Park,1356,Tuesday
+2026-04-28,Old Town,783,Tuesday
+2026-04-28,Riverside,523,Tuesday
+2026-04-28,College Road,1024,Tuesday
+2026-04-28,Industrial Zone,469,Tuesday
+2026-04-28,Central Mall,1731,Tuesday
+2026-04-28,Station Area,1197,Tuesday
+2026-04-29,Market Street,1512,Wednesday
+2026-04-29,Tech Park,1175,Wednesday
+2026-04-29,Old Town,675,Wednesday
+2026-04-29,Riverside,518,Wednesday
+2026-04-29,College Road,1138,Wednesday
+2026-04-29,Industrial Zone,447,Wednesday
+2026-04-29,Central Mall,1615,Wednesday
+2026-04-29,Station Area,1242,Wednesday
+2026-04-30,Market Street,1186,Thursday
+2026-04-30,Tech Park,1434,Thursday
+2026-04-30,Old Town,764,Thursday
+2026-04-30,Riverside,598,Thursday
+2026-04-30,College Road,1174,Thursday
+2026-04-30,Industrial Zone,455,Thursday
+2026-04-30,Central Mall,1723,Thursday
+2026-04-30,Station Area,1252,Thursday
+2026-05-01,Market Street,1387,Friday
+2026-05-01,Tech Park,1423,Friday
+2026-05-01,Old Town,782,Friday
+2026-05-01,Riverside,581,Friday
+2026-05-01,College Road,1135,Friday
+2026-05-01,Industrial Zone,490,Friday
+2026-05-01,Central Mall,1560,Friday
+2026-05-01,Station Area,1384,Friday
+2026-05-02,Market Street,1843,Saturday
+2026-05-02,Tech Park,877,Saturday
+2026-05-02,Old Town,1089,Saturday
+2026-05-02,Riverside,728,Saturday
+2026-05-02,College Road,939,Saturday
+2026-05-02,Industrial Zone,417,Saturday
+2026-05-02,Central Mall,2229,Saturday
+2026-05-02,Station Area,1027,Saturday
+2026-05-03,Market Street,1783,Sunday
+2026-05-03,Tech Park,799,Sunday
+2026-05-03,Old Town,942,Sunday
+2026-05-03,Riverside,818,Sunday
+2026-05-03,College Road,936,Sunday
+2026-05-03,Industrial Zone,455,Sunday
+2026-05-03,Central Mall,2134,Sunday
+2026-05-03,Station Area,1207,Sunday
+2026-05-04,Market Street,1322,Monday
+2026-05-04,Tech Park,1170,Monday
+2026-05-04,Old Town,864,Monday
+2026-05-04,Riverside,589,Monday
+2026-05-04,College Road,1126,Monday
+2026-05-04,Industrial Zone,441,Monday
+2026-05-04,Central Mall,1681,Monday
+2026-05-04,Station Area,1014,Monday
+2026-05-05,Market Street,1297,Tuesday
+2026-05-05,Tech Park,1220,Tuesday
+2026-05-05,Old Town,710,Tuesday
+2026-05-05,Riverside,539,Tuesday
+2026-05-05,College Road,1312,Tuesday
+2026-05-05,Industrial Zone,463,Tuesday
+2026-05-05,Central Mall,1579,Tuesday
+2026-05-05,Station Area,1269,Tuesday
+2026-05-06,Market Street,1473,Wednesday
+2026-05-06,Tech Park,1387,Wednesday
+2026-05-06,Old Town,776,Wednesday
+2026-05-06,Riverside,523,Wednesday
+2026-05-06,College Road,1212,Wednesday
+2026-05-06,Industrial Zone,455,Wednesday
+2026-05-06,Central Mall,1774,Wednesday
+2026-05-06,Station Area,1276,Wednesday
+2026-05-07,Market Street,1437,Thursday
+2026-05-07,Tech Park,1237,Thursday
+2026-05-07,Old Town,855,Thursday
+2026-05-07,Riverside,561,Thursday
+2026-05-07,College Road,1339,Thursday
+2026-05-07,Industrial Zone,417,Thursday
+2026-05-07,Central Mall,1887,Thursday
+2026-05-07,Station Area,1234,Thursday
+2026-05-08,Market Street,1257,Friday
+2026-05-08,Tech Park,1243,Friday
+2026-05-08,Old Town,754,Friday
+2026-05-08,Riverside,571,Friday
+2026-05-08,College Road,1198,Friday
+2026-05-08,Industrial Zone,422,Friday
+2026-05-08,Central Mall,1655,Friday
+2026-05-08,Station Area,1424,Friday
+2026-05-09,Market Street,2116,Saturday
+2026-05-09,Tech Park,1030,Saturday
+2026-05-09,Old Town,1087,Saturday
+2026-05-09,Riverside,782,Saturday
+2026-05-09,College Road,928,Saturday
+2026-05-09,Industrial Zone,406,Saturday
+2026-05-09,Central Mall,2276,Saturday
+2026-05-09,Station Area,1054,Saturday
+2026-05-10,Market Street,1920,Sunday
+2026-05-10,Tech Park,1048,Sunday
+2026-05-10,Old Town,1043,Sunday
+2026-05-10,Riverside,872,Sunday
+2026-05-10,College Road,799,Sunday
+2026-05-10,Industrial Zone,391,Sunday
+2026-05-10,Central Mall,2367,Sunday
+2026-05-10,Station Area,1320,Sunday
+2026-05-11,Market Street,1509,Monday
+2026-05-11,Tech Park,1249,Monday
+2026-05-11,Old Town,842,Monday
+2026-05-11,Riverside,552,Monday
+2026-05-11,College Road,1136,Monday
+2026-05-11,Industrial Zone,474,Monday
+2026-05-11,Central Mall,3272,Monday
+2026-05-11,Station Area,1065,Monday
+2026-05-12,Market Street,1488,Tuesday
+2026-05-12,Tech Park,1441,Tuesday
+2026-05-12,Old Town,737,Tuesday
+2026-05-12,Riverside,572,Tuesday
+2026-05-12,College Road,1199,Tuesday
+2026-05-12,Industrial Zone,452,Tuesday
+2026-05-12,Central Mall,1590,Tuesday
+2026-05-12,Station Area,1154,Tuesday
+2026-05-13,Market Street,1329,Wednesday
+2026-05-13,Tech Park,1420,Wednesday
+2026-05-13,Old Town,810,Wednesday
+2026-05-13,Riverside,538,Wednesday
+2026-05-13,College Road,1225,Wednesday
+2026-05-13,Industrial Zone,342,Wednesday
+2026-05-13,Central Mall,1818,Wednesday
+2026-05-13,Station Area,1051,Wednesday
+2026-05-14,Market Street,1294,Thursday
+2026-05-14,Tech Park,1183,Thursday
+2026-05-14,Old Town,697,Thursday
+2026-05-14,Riverside,606,Thursday
+2026-05-14,College Road,1112,Thursday
+2026-05-14,Industrial Zone,456,Thursday
+2026-05-14,Central Mall,1659,Thursday
+2026-05-14,Station Area,1268,Thursday
+2026-05-15,Market Street,1342,Friday
+2026-05-15,Tech Park,1167,Friday
+2026-05-15,Old Town,840,Friday
+2026-05-15,Riverside,533,Friday
+2026-05-15,College Road,1012,Friday
+2026-05-15,Industrial Zone,429,Friday
+2026-05-15,Central Mall,1867,Friday
+2026-05-15,Station Area,1306,Friday
+2026-05-16,Market Street,1816,Saturday
+2026-05-16,Tech Park,973,Saturday
+2026-05-16,Old Town,1062,Saturday
+2026-05-16,Riverside,908,Saturday
+2026-05-16,College Road,917,Saturday
+2026-05-16,Industrial Zone,460,Saturday
+2026-05-16,Central Mall,2528,Saturday
+2026-05-16,Station Area,1247,Saturday
+2026-05-17,Market Street,1831,Sunday
+2026-05-17,Tech Park,986,Sunday
+2026-05-17,Old Town,1084,Sunday
+2026-05-17,Riverside,777,Sunday
+2026-05-17,College Road,942,Sunday
+2026-05-17,Industrial Zone,447,Sunday
+2026-05-17,Central Mall,2475,Sunday
+2026-05-17,Station Area,1216,Sunday
+2026-05-18,Market Street,1345,Monday
+2026-05-18,Tech Park,1095,Monday
+2026-05-18,Old Town,837,Monday
+2026-05-18,Riverside,572,Monday
+2026-05-18,College Road,1251,Monday
+2026-05-18,Industrial Zone,342,Monday
+2026-05-18,Central Mall,1950,Monday
+2026-05-18,Station Area,1211,Monday
+2026-05-19,Market Street,1456,Tuesday
+2026-05-19,Tech Park,1196,Tuesday
+2026-05-19,Old Town,818,Tuesday
+2026-05-19,Riverside,510,Tuesday
+2026-05-19,College Road,1101,Tuesday
+2026-05-19,Industrial Zone,514,Tuesday
+2026-05-19,Central Mall,1646,Tuesday
+2026-05-19,Station Area,1247,Tuesday
+2026-05-20,Market Street,1432,Wednesday
+2026-05-20,Tech Park,1357,Wednesday
+2026-05-20,Old Town,790,Wednesday
+2026-05-20,Riverside,574,Wednesday
+2026-05-20,College Road,1383,Wednesday
+2026-05-20,Industrial Zone,444,Wednesday
+2026-05-20,Central Mall,1700,Wednesday
+2026-05-20,Station Area,1330,Wednesday
+2026-05-21,Market Street,1458,Thursday
+2026-05-21,Tech Park,1430,Thursday
+2026-05-21,Old Town,821,Thursday
+2026-05-21,Riverside,507,Thursday
+2026-05-21,College Road,1313,Thursday
+2026-05-21,Industrial Zone,405,Thursday
+2026-05-21,Central Mall,1715,Thursday
+2026-05-21,Station Area,1154,Thursday
+2026-05-22,Market Street,1334,Friday
+2026-05-22,Tech Park,1341,Friday
+2026-05-22,Old Town,802,Friday
+2026-05-22,Riverside,577,Friday
+2026-05-22,College Road,1312,Friday
+2026-05-22,Industrial Zone,463,Friday
+2026-05-22,Central Mall,1643,Friday
+2026-05-22,Station Area,1324,Friday
+2026-05-23,Market Street,2057,Saturday
+2026-05-23,Tech Park,907,Saturday
+2026-05-23,Old Town,1148,Saturday
+2026-05-23,Riverside,826,Saturday
+2026-05-23,College Road,873,Saturday
+2026-05-23,Industrial Zone,496,Saturday
+2026-05-23,Central Mall,2320,Saturday
+2026-05-23,Station Area,1242,Saturday
+2026-05-24,Market Street,1854,Sunday
+2026-05-24,Tech Park,1008,Sunday
+2026-05-24,Old Town,1000,Sunday
+2026-05-24,Riverside,693,Sunday
+2026-05-24,College Road,1009,Sunday
+2026-05-24,Industrial Zone,417,Sunday
+2026-05-24,Central Mall,2163,Sunday
+2026-05-24,Station Area,1019,Sunday
+2026-05-25,Market Street,1275,Monday
+2026-05-25,Tech Park,1171,Monday
+2026-05-25,Old Town,886,Monday
+2026-05-25,Riverside,605,Monday
+2026-05-25,College Road,1100,Monday
+2026-05-25,Industrial Zone,528,Monday
+2026-05-25,Central Mall,1811,Monday
+2026-05-25,Station Area,1199,Monday
+2026-05-26,Market Street,1076,Tuesday
+2026-05-26,Tech Park,1551,Tuesday
+2026-05-26,Old Town,697,Tuesday
+2026-05-26,Riverside,486,Tuesday
+2026-05-26,College Road,1261,Tuesday
+2026-05-26,Industrial Zone,535,Tuesday
+2026-05-26,Central Mall,1867,Tuesday
+2026-05-26,Station Area,1288,Tuesday
+2026-05-27,Market Street,1410,Wednesday
+2026-05-27,Tech Park,1401,Wednesday
+2026-05-27,Old Town,832,Wednesday
+2026-05-27,Riverside,573,Wednesday
+2026-05-27,College Road,1176,Wednesday
+2026-05-27,Industrial Zone,446,Wednesday
+2026-05-27,Central Mall,1581,Wednesday
+2026-05-27,Station Area,1206,Wednesday
+2026-05-28,Market Street,1164,Thursday
+2026-05-28,Tech Park,1302,Thursday
+2026-05-28,Old Town,723,Thursday
+2026-05-28,Riverside,511,Thursday
+2026-05-28,College Road,1184,Thursday
+2026-05-28,Industrial Zone,499,Thursday
+2026-05-28,Central Mall,1807,Thursday
+2026-05-28,Station Area,1079,Thursday
+2026-05-29,Market Street,1241,Friday
+2026-05-29,Tech Park,1413,Friday
+2026-05-29,Old Town,724,Friday
+2026-05-29,Riverside,551,Friday
+2026-05-29,College Road,1219,Friday
+2026-05-29,Industrial Zone,414,Friday
+2026-05-29,Central Mall,1699,Friday
+2026-05-29,Station Area,1103,Friday
+2026-05-30,Market Street,1797,Saturday
+2026-05-30,Tech Park,1037,Saturday
+2026-05-30,Old Town,961,Saturday
+2026-05-30,Riverside,814,Saturday
+2026-05-30,College Road,897,Saturday
+2026-05-30,Industrial Zone,469,Saturday
+2026-05-30,Central Mall,2403,Saturday
+2026-05-30,Station Area,1371,Saturday
+2026-05-31,Market Street,1908,Sunday
+2026-05-31,Tech Park,977,Sunday
+2026-05-31,Old Town,1113,Sunday
+2026-05-31,Riverside,821,Sunday
+2026-05-31,College Road,903,Sunday
+2026-05-31,Industrial Zone,451,Sunday
+2026-05-31,Central Mall,2229,Sunday
+2026-05-31,Station Area,1171,Sunday
+2026-06-01,Market Street,1199,Monday
+2026-06-01,Tech Park,1501,Monday
+2026-06-01,Old Town,709,Monday
+2026-06-01,Riverside,531,Monday
+2026-06-01,College Road,1103,Monday
+2026-06-01,Industrial Zone,482,Monday
+2026-06-01,Central Mall,1648,Monday
+2026-06-01,Station Area,1362,Monday
+2026-06-02,Market Street,1279,Tuesday
+2026-06-02,Tech Park,1347,Tuesday
+2026-06-02,Old Town,735,Tuesday
+2026-06-02,Riverside,660,Tuesday
+2026-06-02,College Road,1060,Tuesday
+2026-06-02,Industrial Zone,461,Tuesday
+2026-06-02,Central Mall,1775,Tuesday
+2026-06-02,Station Area,1280,Tuesday
+2026-06-03,Market Street,1332,Wednesday
+2026-06-03,Tech Park,1305,Wednesday
+2026-06-03,Old Town,792,Wednesday
+2026-06-03,Riverside,557,Wednesday
+2026-06-03,College Road,1263,Wednesday
+2026-06-03,Industrial Zone,530,Wednesday
+2026-06-03,Central Mall,1615,Wednesday
+2026-06-03,Station Area,1104,Wednesday
+2026-06-04,Market Street,1344,Thursday
+2026-06-04,Tech Park,1592,Thursday
+2026-06-04,Old Town,739,Thursday
+2026-06-04,Riverside,638,Thursday
+2026-06-04,College Road,1330,Thursday
+2026-06-04,Industrial Zone,431,Thursday
+2026-06-04,Central Mall,1769,Thursday
+2026-06-04,Station Area,1402,Thursday
+2026-06-05,Market Street,1313,Friday
+2026-06-05,Tech Park,1299,Friday
+2026-06-05,Old Town,753,Friday
+2026-06-05,Riverside,518,Friday
+2026-06-05,College Road,1113,Friday
+2026-06-05,Industrial Zone,407,Friday
+2026-06-05,Central Mall,1698,Friday
+2026-06-05,Station Area,1165,Friday
+2026-06-06,Market Street,1933,Saturday
+2026-06-06,Tech Park,890,Saturday
+2026-06-06,Old Town,1136,Saturday
+2026-06-06,Riverside,843,Saturday
+2026-06-06,College Road,759,Saturday
+2026-06-06,Industrial Zone,465,Saturday
+2026-06-06,Central Mall,2606,Saturday
+2026-06-06,Station Area,1122,Saturday
+2026-06-07,Market Street,2154,Sunday
+2026-06-07,Tech Park,1051,Sunday
+2026-06-07,Old Town,1045,Sunday
+2026-06-07,Riverside,788,Sunday
+2026-06-07,College Road,945,Sunday
+2026-06-07,Industrial Zone,455,Sunday
+2026-06-07,Central Mall,2477,Sunday
+2026-06-07,Station Area,1152,Sunday
+2026-06-08,Market Street,1376,Monday
+2026-06-08,Tech Park,1174,Monday
+2026-06-08,Old Town,785,Monday
+2026-06-08,Riverside,524,Monday
+2026-06-08,College Road,1107,Monday
+2026-06-08,Industrial Zone,497,Monday
+2026-06-08,Central Mall,1845,Monday
+2026-06-08,Station Area,1305,Monday
+2026-06-09,Market Street,1240,Tuesday
+2026-06-09,Tech Park,1291,Tuesday
+2026-06-09,Old Town,869,Tuesday
+2026-06-09,Riverside,572,Tuesday
+2026-06-09,College Road,1396,Tuesday
+2026-06-09,Industrial Zone,467,Tuesday
+2026-06-09,Central Mall,1724,Tuesday
+2026-06-09,Station Area,1214,Tuesday
+2026-06-10,Market Street,1374,Wednesday
+2026-06-10,Tech Park,1309,Wednesday
+2026-06-10,Old Town,838,Wednesday
+2026-06-10,Riverside,291,Wednesday
+2026-06-10,College Road,1104,Wednesday
+2026-06-10,Industrial Zone,405,Wednesday
+2026-06-10,Central Mall,1450,Wednesday
+2026-06-10,Station Area,1297,Wednesday
+2026-06-11,Market Street,1240,Thursday
+2026-06-11,Tech Park,1098,Thursday
+2026-06-11,Old Town,818,Thursday
+2026-06-11,Riverside,215,Thursday
+2026-06-11,College Road,1178,Thursday
+2026-06-11,Industrial Zone,484,Thursday
+2026-06-11,Central Mall,1712,Thursday
+2026-06-11,Station Area,1237,Thursday
+2026-06-12,Market Street,1462,Friday
+2026-06-12,Tech Park,1297,Friday
+2026-06-12,Old Town,811,Friday
+2026-06-12,Riverside,582,Friday
+2026-06-12,College Road,1117,Friday
+2026-06-12,Industrial Zone,490,Friday
+2026-06-12,Central Mall,1678,Friday
+2026-06-12,Station Area,1173,Friday
+2026-06-13,Market Street,1990,Saturday
+2026-06-13,Tech Park,948,Saturday
+2026-06-13,Old Town,1115,Saturday
+2026-06-13,Riverside,794,Saturday
+2026-06-13,College Road,987,Saturday
+2026-06-13,Industrial Zone,471,Saturday
+2026-06-13,Central Mall,2380,Saturday
+2026-06-13,Station Area,1331,Saturday
+2026-06-14,Market Street,2121,Sunday
+2026-06-14,Tech Park,1068,Sunday
+2026-06-14,Old Town,1114,Sunday
+2026-06-14,Riverside,712,Sunday
+2026-06-14,College Road,831,Sunday
+2026-06-14,Industrial Zone,443,Sunday
+2026-06-14,Central Mall,2270,Sunday
+2026-06-14,Station Area,1231,Sunday
+2026-06-15,Market Street,1371,Monday
+2026-06-15,Tech Park,1387,Monday
+2026-06-15,Old Town,791,Monday
+2026-06-15,Riverside,590,Monday
+2026-06-15,College Road,1189,Monday
+2026-06-15,Industrial Zone,383,Monday
+2026-06-15,Central Mall,1578,Monday
+2026-06-15,Station Area,1236,Monday
+2026-06-16,Market Street,1233,Tuesday
+2026-06-16,Tech Park,1395,Tuesday
+2026-06-16,Old Town,894,Tuesday
+2026-06-16,Riverside,624,Tuesday
+2026-06-16,College Road,1163,Tuesday
+2026-06-16,Industrial Zone,509,Tuesday
+2026-06-16,Central Mall,1727,Tuesday
+2026-06-16,Station Area,1218,Tuesday
+2026-06-17,Market Street,1299,Wednesday
+2026-06-17,Tech Park,1300,Wednesday
+2026-06-17,Old Town,772,Wednesday
+2026-06-17,Riverside,577,Wednesday
+2026-06-17,College Road,1199,Wednesday
+2026-06-17,Industrial Zone,455,Wednesday
+2026-06-17,Central Mall,1768,Wednesday
+2026-06-17,Station Area,1372,Wednesday
+2026-06-18,Market Street,1471,Thursday
+2026-06-18,Tech Park,1175,Thursday
+2026-06-18,Old Town,634,Thursday
+2026-06-18,Riverside,612,Thursday
+2026-06-18,College Road,1055,Thursday
+2026-06-18,Industrial Zone,447,Thursday
+2026-06-18,Central Mall,1549,Thursday
+2026-06-18,Station Area,1073,Thursday
+2026-06-19,Market Street,1428,Friday
+2026-06-19,Tech Park,1415,Friday
+2026-06-19,Old Town,761,Friday
+2026-06-19,Riverside,452,Friday
+2026-06-19,College Road,1134,Friday
+2026-06-19,Industrial Zone,470,Friday
+2026-06-19,Central Mall,1508,Friday
+2026-06-19,Station Area,1273,Friday
+2026-06-20,Market Street,1915,Saturday
+2026-06-20,Tech Park,1075,Saturday
+2026-06-20,Old Town,1129,Saturday
+2026-06-20,Riverside,736,Saturday
+2026-06-20,College Road,1000,Saturday
+2026-06-20,Industrial Zone,450,Saturday
+2026-06-20,Central Mall,2392,Saturday
+2026-06-20,Station Area,1162,Saturday
+2026-06-21,Market Street,1851,Sunday
+2026-06-21,Tech Park,955,Sunday
+2026-06-21,Old Town,1104,Sunday
+2026-06-21,Riverside,909,Sunday
+2026-06-21,College Road,813,Sunday
+2026-06-21,Industrial Zone,398,Sunday
+2026-06-21,Central Mall,2681,Sunday
+2026-06-21,Station Area,1235,Sunday
+2026-06-22,Market Street,1298,Monday
+2026-06-22,Tech Park,1448,Monday
+2026-06-22,Old Town,761,Monday
+2026-06-22,Riverside,655,Monday
+2026-06-22,College Road,1253,Monday
+2026-06-22,Industrial Zone,439,Monday
+2026-06-22,Central Mall,2010,Monday
+2026-06-22,Station Area,1196,Monday
+2026-06-23,Market Street,1454,Tuesday
+2026-06-23,Tech Park,1370,Tuesday
+2026-06-23,Old Town,884,Tuesday
+2026-06-23,Riverside,643,Tuesday
+2026-06-23,College Road,1192,Tuesday
+2026-06-23,Industrial Zone,430,Tuesday
+2026-06-23,Central Mall,1779,Tuesday
+2026-06-23,Station Area,1190,Tuesday
+2026-06-24,Market Street,1595,Wednesday
+2026-06-24,Tech Park,1354,Wednesday
+2026-06-24,Old Town,778,Wednesday
+2026-06-24,Riverside,580,Wednesday
+2026-06-24,College Road,1062,Wednesday
+2026-06-24,Industrial Zone,422,Wednesday
+2026-06-24,Central Mall,1882,Wednesday
+2026-06-24,Station Area,1193,Wednesday
+2026-06-25,Market Street,1259,Thursday
+2026-06-25,Tech Park,1398,Thursday
+2026-06-25,Old Town,878,Thursday
+2026-06-25,Riverside,605,Thursday
+2026-06-25,College Road,1286,Thursday
+2026-06-25,Industrial Zone,430,Thursday
+2026-06-25,Central Mall,1523,Thursday
+2026-06-25,Station Area,1411,Thursday
+2026-06-26,Market Street,1340,Friday
+2026-06-26,Tech Park,1314,Friday
+2026-06-26,Old Town,887,Friday
+2026-06-26,Riverside,598,Friday
+2026-06-26,College Road,1236,Friday
+2026-06-26,Industrial Zone,538,Friday
+2026-06-26,Central Mall,1631,Friday
+2026-06-26,Station Area,1354,Friday
+2026-06-27,Market Street,1936,Saturday
+2026-06-27,Tech Park,1054,Saturday
+2026-06-27,Old Town,1262,Saturday
+2026-06-27,Riverside,835,Saturday
+2026-06-27,College Road,957,Saturday
+2026-06-27,Industrial Zone,498,Saturday
+2026-06-27,Central Mall,2339,Saturday
+2026-06-27,Station Area,1177,Saturday
+2026-06-28,Market Street,1767,Sunday
+2026-06-28,Tech Park,870,Sunday
+2026-06-28,Old Town,1310,Sunday
+2026-06-28,Riverside,732,Sunday
+2026-06-28,College Road,902,Sunday
+2026-06-28,Industrial Zone,449,Sunday
+2026-06-28,Central Mall,2470,Sunday
+2026-06-28,Station Area,1345,Sunday
+2026-06-29,Market Street,1473,Monday
+2026-06-29,Tech Park,1281,Monday
+2026-06-29,Old Town,793,Monday
+2026-06-29,Riverside,587,Monday
+2026-06-29,College Road,1171,Monday
+2026-06-29,Industrial Zone,518,Monday
+2026-06-29,Central Mall,1791,Monday
+2026-06-29,Station Area,1338,Monday
