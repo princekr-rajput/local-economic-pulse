@@ -51,7 +51,7 @@ Response rendered in Dashboard
 |---|---|
 | Frontend | Streamlit |
 | Backend | FastAPI (Python) |
-| AI / LLM | Google Gemini API (gemini-2.0-flash) |
+| AI / LLM | Google Gemini API (gemini-2.5-flash) |
 | Database | SQLite (designed for BigQuery) |
 | Data | Synthetic footfall & business activity data (Python-generated) |
 
