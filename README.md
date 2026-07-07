@@ -1,8 +1,4 @@
-# 📊 Local Economic Pulse Dashboard
-
-**Team:** vector-Ai  
-**Hackathon:** Google Gen AI Academy Hackathon (Hack2Skill) — Theme: "AI for Better Living and Smarter Communities"
-
+# 📊 Local Economic Pulse Dashboard 
 An AI-powered Decision Intelligence Platform that helps city stakeholders, local businesses, and communities understand local economic activity through natural language — turning raw footfall and business data into clear insights and actionable recommendations.
 
 ---
